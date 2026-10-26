@@ -18,7 +18,7 @@ This is my Data Structures and Algorithms course portfolio! Compiled here are my
 | **Laboratory Units** | 2 |
 | **Laboratory Hours** | 6 hours |
 
-<br /> 
+<br/> 
 
 ### 📝 Activity Documentation
 *Each activity is documented according to its specific requirements. Depending on the activity, the documentation may include:*
