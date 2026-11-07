@@ -53,8 +53,8 @@ The course topics are organized into three major academic periods.
 Explore the contents of this Data Structures and Algorithms portfolio in just one click ✨:
 | Directory | Description |
 |---|---|
-| 📘 [Hands On Activities](./Hands%20On%20Activities/) | Compilation of hands-on activities, C++ source codes, activity documentation, and program outputs. |
-| 📝 [Seatworks](./Seatworks/) | Collection of seatwork exercises, programming solutions, and related documentation. | <br>
+| 📘 [Hands On Activities](./Hands%20On%20Activities/)      | Compilation of hands-on activities, C++ source codes, activity documentation, and program outputs. |
+| 📝 [Seatworks](./Seatworks/)      | Collection of seatwork exercises, programming solutions, and related documentation. | <br>
 
 <br>
 
